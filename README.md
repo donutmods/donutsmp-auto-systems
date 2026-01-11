@@ -20,6 +20,12 @@ oyuncu deneyimini iyileştirmek ve admin yükünü azaltmak.
 - 📘 Custom guides / Özel rehberler
 - 🍩 DonutSMP-specific features / DonutSMP’ye özel özellikler
 
+## 🔧 DonutSMP Auto System Mod
+
+This is the main .jar mod used in DonutSMP Auto Systems.
+
+DonutSMP Auto Systems projesinde kullanılan ana .jar moddur.
+
 ## 📌 Status
 🚧 This project is under development.  
 🚧 Bu proje aktif olarak geliştirilmektedir.
